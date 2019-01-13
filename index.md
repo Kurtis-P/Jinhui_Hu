@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/Kurtis-P/my-resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I’m Jinhui Hu, an undergraduate student in Honors Science Program(Physics) program held by XJTU.You can download my CV [here](https://github.com/Kurtis-P/Jinhui_Hu/raw/master/resume.pdf).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail:[hujinhuihjh@126.com](mailto:hujinhuihjh@126.com).
 
 ### Markdown
 
